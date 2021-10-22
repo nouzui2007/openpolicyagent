@@ -1,5 +1,13 @@
 # Journey Builder用ロールベース権限をOpen Policy Agentで実現できるか
 
+## OPAサーバ起動
+
+Docker提供されているので起動する。
+
+```shell
+docker run --rm -d --name opa -p 8181:8181 openpolicyagent/opa run --server
+```
+
 ## ロール系データの作成
 
 ### 登録
