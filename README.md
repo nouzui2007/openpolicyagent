@@ -1,4 +1,4 @@
-# Journey Builder用ロールベース権限をOpen Policy Agentで実現できるか
+# ロールベース権限をOpen Policy Agentで実現
 
 ## OPAサーバ起動
 
