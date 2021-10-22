@@ -1,0 +1,20 @@
+{
+  "writer": {
+    "methods": [
+      "POST",
+      "PUT"
+    ],
+    "resources": [
+      "hoge.*",
+      "moge.*"
+    ]
+  },
+  "reader": {
+    "methods": [
+      "GET"
+    ],
+    "resources": [
+      "hoge.*"
+    ]
+  }
+}

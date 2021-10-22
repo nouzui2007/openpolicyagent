@@ -1,0 +1,12 @@
+{
+  "alice": [
+    "admin"
+  ],
+  "bob": [
+    "reader",
+    "writer"
+  ],
+  "eve": [
+    "reader"
+  ]
+}
